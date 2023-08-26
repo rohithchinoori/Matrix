@@ -1,0 +1,16 @@
+.but1 {
+  display: flex;
+  align-items: center;
+  border-width: 0px;
+  background-color: transparent;
+  color: #f7f9f9;
+  font-size: 20px;
+  cursor: pointer;
+}
+.li {
+  margin: 10px;
+  width: 100%;
+}
+.vector {
+  margin: 15px;
+}
